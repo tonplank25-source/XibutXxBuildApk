@@ -1,2 +1,2 @@
 # XibutXxBuildApk
-Buat apk di sini aja bgst
+Lu bisa buat apk cuma pake html web!
